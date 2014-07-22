@@ -1,7 +1,7 @@
 body {
-    font-family: 'Raleway', sans-serif;
-	padding: 0 1.5em 3em 1.5em;
-    background-color: #e4e4e4;
+    font-family: 'Oswald', sans-serif;
+    padding: 0 1.5em 3em 1.5em;
+    background-color: #FFF;
     color: #3d3c3b;
     font-size: 18px;
     text-align: justify;
@@ -15,7 +15,7 @@ p {
 h1,
 h2 {
     font-weight: normal;
-    font-family: 'Bitter', serif;
+    
     text-align: center;
 
     }
@@ -33,6 +33,7 @@ h2 {
     border-left: 0;
     border-right: 0;
     padding: 0.5em 0;
+    color:rgb(201, 83, 81);
 }
 
 a {
@@ -66,12 +67,12 @@ main {
     padding: 1em 0;
     margin-bottom: 2em;
     font-size: 1.35em;
+    color:rgb(201, 83, 81);
 }
 
 .feature {
-	margin: 0 auto;
-	max-width: 100%;
-	margin-bottom: 1em;
-	display: block;
-	color: #33FF00;
+    margin: 0 auto;
+    max-width: 100%;
+    margin-bottom: 1em;
+    display: block;
 }
